@@ -1,0 +1,2 @@
+- animals
+- {cats: 2, dogs: 3, fish: null, likes to play: true}
