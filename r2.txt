@@ -1,0 +1,17 @@
+Connecting to... bender@10.10.2.3
+anewfile.txt
+anotherfile.txt
+file3.txt
+goodnews.everyone
+sshworked.txt
+thirdfile.yaml
+
+Connecting to... zoidberg@10.10.2.5
+create.txt
+file3.txt
+goodnews.everyone
+sshworked.txt
+
+Connecting to... fry@10.10.2.4
+goodnews.everyone
+mydir
