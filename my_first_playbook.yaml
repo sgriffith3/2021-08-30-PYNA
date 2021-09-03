@@ -1,0 +1,13 @@
+- name: My first play
+  hosts: planetexpress
+  tasks:
+  - name: ping the hosts
+    ping:
+
+  - name: show home dir contents
+    command: ls
+    register: ls_out
+
+  - name: print out ls_out
+    debug:
+      var: ls_out
